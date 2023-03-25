@@ -1,6 +1,6 @@
 # Python-Programming-Course
 
-Files of the Python Programming Course of Sichuan University's Mingyuan-Qihang Program.
+Files of the Python Programming Course of Sichuan University's Mingyuan-Qihang Program.<br>
 ![](https://img.shields.io/badge/language-Python-orange) ![](https://img.shields.io/badge/License-MIT-blue)  ![](https://img.shields.io/badge/IDE-jupyter-brightgreen)
 
 明远启航 "Python编程基础" 相关教学课件，目前更新中...
