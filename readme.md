@@ -49,10 +49,10 @@ cd "E:/.../xxx"
 jupyter notebook
 ```
 
-也可以手动定位到文件夹，再右键点击终端中打开
+也可以手动定位到文件夹，再右键点击终端中打开<br>
 <img src="./img/step2.png" width=400 height=200>
 
-输入jupyter notebook,回车
+输入jupyter notebook,回车<br>
 <img src="./img/step3.png" width=400 height=150>
 
 ## How to Contribute
