@@ -7,7 +7,7 @@ Files of the Python Programming Course of Sichuan University's Mingyuan-Qihang P
 
 ## Download & Install
 
-可以通过该仓库界面的右上角"Code"选项，点击"Download Zip"按钮获取该仓库所有教学课件
+可以通过该仓库界面的右上角"Code"选项，点击"Download Zip"按钮获取该仓库所有教学课件<br>
 <img src="./img/step1.png">
 
 
