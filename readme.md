@@ -5,6 +5,19 @@ Files of the Python Programming Course of Sichuan University's Mingyuan-Qihang P
 
 明远启航 "Python编程基础" 相关教学课件，目前更新中...
 
+## Videos
+本课程配套教学视频已同步到bilibili。
+
+- [Class1: Python环境安装教程](https://www.bilibili.com/video/BV16e4y1S7C8)
+- [Class2: 输入输出语句与数值运算](https://www.bilibili.com/video/BV1Kc41177a7)
+- [Class3: 条件分支、列表、社交网络可视化](https://www.bilibili.com/video/BV18T411q76k)
+
+番外课程
+- [游戏开发之熊猫快跑（pygame）](https://www.bilibili.com/video/BV19M411m7QH)
+- [如何复刻一张nature论文插图](https://www.bilibili.com/video/BV1CW4y1W7Cv)
+- [如何定时发送消息](https://www.bilibili.com/video/BV13D4y1x7dt)
+- [与鼠标键盘交互教程，实现自动打字聊天](https://www.bilibili.com/video/BV13V4y1373R)
+
 ## Download & Install
 
 可以通过该仓库界面的右上角"Code"选项，点击"Download Zip"按钮获取该仓库所有教学课件<br>
@@ -57,7 +70,7 @@ jupyter notebook
 
 ## How to Contribute
 
-如果你有任何想法或建议，欢迎提交issue或者pull request。如果有任何问题需要联系，请联系邮箱sashabanks@126.com
+如果你有任何想法或建议，欢迎提交issue或者pull request。
 
 ## License
 本repository基于MIT许可证发布，详细信息请参见LICENSE文件。<br>
