@@ -21,7 +21,7 @@ Files of the Python Programming Course of Sichuan University's Mingyuan-Qihang P
 ## Download & Install
 
 可以通过该仓库界面的右上角"Code"选项，点击"Download Zip"按钮获取该仓库所有教学课件<br>
-<img src="./img/step1.png">
+<img src="img/step1.png">
 
 
 如果您安装了git，也可以通过命令行窗口来完成下载。<br>
@@ -63,10 +63,10 @@ jupyter notebook
 ```
 
 也可以手动定位到文件夹，再右键点击终端中打开<br>
-<img src="./img/step2.png" width=400 height=200>
+<img src="img/step2.png" width=400 height=200>
 
 输入jupyter notebook,回车<br>
-<img src="./img/step3.png" width=400 height=150>
+<img src="img/step3.png" width=400 height=150>
 
 ## How to Contribute
 
